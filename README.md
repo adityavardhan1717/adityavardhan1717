@@ -1,89 +1,67 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=blur&color=0:FAFBFC,100:EAF0F6&height=200&section=header&text=Aditya%20Vardhan&fontSize=46&fontColor=1F3864&fontAlignY=42&desc=Backend%20Engineer%20%E2%80%94%20Java%20%2F%20Spring%20Boot%20%2F%20Distributed%20Systems&descAlignY=60&descSize=17&descColor=475569" width="100%"/>
+<img src="https://raw.githubusercontent.com/adityavardhan1717/adityavardhan1717/main/terminal-banner.svg" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&size=17&duration=3200&pause=900&color=0F766E&center=true&vCenter=true&width=600&lines=3.5%2B+years+shipping+production+fintech+backends;10M%2B+events%2Fday+through+systems+I've+architected;MSc+Data+Analytics+%E2%80%94+researching+failure+detection" />
+# `GET /engineers/aditya-vardhan`
 
-<br/>
-
-<a href="https://adityavardhan1717.github.io"><img src="https://img.shields.io/badge/Portfolio-1F3864?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-<a href="https://linkedin.com/in/adityavardhan1717"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:thedeveloperaditya@gmail.com"><img src="https://img.shields.io/badge/Email-0F766E?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&size=14&duration=2800&pause=1200&color=8B7FB8&center=true&vCenter=true&width=560&lines=curl+-s+https%3A%2F%2Fapi.adityavardhan.dev%2Fv1%2Fengineers%2Faditya+%7C+jq" alt="typing" />
 
 </div>
 
-<br/>
+```json
+HTTP/1.1 200 OK
+Content-Type: application/json
 
-## About
+{
+  "name": "Aditya Vardhan",
+  "role": "Backend Engineer",
+  "location": "Limerick, Ireland",
+  "experience_years": 3.5,
+  "status": "open_to_opportunities",
 
-Backend engineer based in Limerick, Ireland, building high-throughput distributed systems in fintech. Currently completing an MSc in Data Analytics, applying statistical methods to real production microservice failures.
+  "currently": [
+    "Completing MSc Data Analytics @ TUS Limerick",
+    "Researching failure detection in distributed systems"
+  ],
 
-<br/>
+  "production_systems": [
+    {
+      "name": "kafka-event-backbone",
+      "throughput": "10M+ events/day",
+      "impact": "-40% cross-service latency"
+    },
+    {
+      "name": "loan-service-migration",
+      "type": "monolith → microservices",
+      "impact": "-40% release turnaround"
+    }
+  ],
 
-## Selected Work
+  "research": {
+    "title": "Finding Performance Problems in Microservices",
+    "dataset": "6.59M production traces",
+    "methods": ["percentile", "z-score", "IQR", "MAD"],
+    "finding": "anomalous traces missing a span 99.7% of the time, vs 23.9% normal",
+    "read_more": "https://adityavardhan1717.github.io/thesis.html"
+  },
 
-<table>
-<tr>
-<td width="33%" valign="top">
+  "stack": {
+    "languages": ["Java", "Python", "SQL", "C"],
+    "backend": ["Spring Boot", "Kafka", "Hibernate", "REST"],
+    "data": ["MySQL", "Redis", "Oracle", "MongoDB"],
+    "cloud": ["AWS", "Docker"]
+  },
 
-**Kafka Event Backbone**
-Architected from scratch — replaced point-to-point service calls.
+  "links": {
+    "portfolio": "https://adityavardhan1717.github.io",
+    "linkedin": "https://linkedin.com/in/adityavardhan1717",
+    "email": "thedeveloperaditya@gmail.com"
+  }
+}
+```
 
-`10M+ events/day` &nbsp;·&nbsp; `-40% latency`
+<div align="center">
 
-</td>
-<td width="33%" valign="top">
-
-**Monolith → Microservices**
-Led the migration of core loan infrastructure.
-
-`-40% release time` &nbsp;·&nbsp; team-wide impact
-
-</td>
-<td width="33%" valign="top">
-
-**Trace Anomaly Detection**
-MSc thesis — 6.59M production traces, 4 statistical methods.
-
-`99.7% vs 23.9%` missing-span signal
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-> **Featured research:** anomalous microservice traces are missing at least one expected span 99.7% of the time, vs. 23.9% for normal traces — a leading indicator for failure detection, not just a symptom of it.
-> **[Read the full breakdown →](https://adityavardhan1717.github.io/thesis.html)**
-
-<br/>
-
-## Stack
-
-<div align="left">
-
-<img src="https://img.shields.io/badge/Java-1F3864?style=flat-square&logo=java&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-1F3864?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Spring%20Boot-1F3864?style=flat-square&logo=spring&logoColor=white"/>
-<img src="https://img.shields.io/badge/Kafka-1F3864?style=flat-square&logo=apachekafka&logoColor=white"/>
-<img src="https://img.shields.io/badge/Hibernate-1F3864?style=flat-square&logo=hibernate&logoColor=white"/>
-<br/><br/>
-<img src="https://img.shields.io/badge/MySQL-0F766E?style=flat-square&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Redis-0F766E?style=flat-square&logo=redis&logoColor=white"/>
-<img src="https://img.shields.io/badge/Oracle-0F766E?style=flat-square&logo=oracle&logoColor=white"/>
-<img src="https://img.shields.io/badge/MongoDB-0F766E?style=flat-square&logo=mongodb&logoColor=white"/>
-<img src="https://img.shields.io/badge/AWS-0F766E?style=flat-square&logo=amazonaws&logoColor=white"/>
-<img src="https://img.shields.io/badge/Docker-0F766E?style=flat-square&logo=docker&logoColor=white"/>
+*full docs & case studies →* **[adityavardhan1717.github.io](https://adityavardhan1717.github.io)**
 
 </div>
-
-<br/>
-
-## Get in touch
-
-📄 Full case studies & project breakdowns → **[adityavardhan1717.github.io](https://adityavardhan1717.github.io)**
-📧 **[thedeveloperaditya@gmail.com](mailto:thedeveloperaditya@gmail.com)**
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=blur&color=0:EAF0F6,100:FAFBFC&height=100&section=footer" width="100%"/>
