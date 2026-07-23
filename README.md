@@ -16,6 +16,18 @@
 
 Backend engineer in Limerick, Ireland — 3.5+ years building high-throughput distributed systems in fintech. Currently completing an MSc in Data Analytics, researching how to catch failing microservices before they cause outages.
 
+**A bit more:**
+- 🏋️ Outside of engineering, I train seriously in the gym — the same discipline that goes into a structured lift program is what I bring to shipping and debugging systems: consistent, methodical, no shortcuts.
+- 🎓 Made the jump from industry back into a Master's to formalize the statistical intuition I'd built up watching production systems fail — turns out "why did this break" is a great research question.
+- 🌍 Originally from India, now based in Ireland, always happy to talk shop over coffee if you're in Limerick.
+- 🔧 I like backend work specifically because it's invisible when it's right and very loud when it's wrong — I'd rather be the person who made sure it stayed invisible.
+
+<br/>
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/adityavardhan1717/adityavardhan1717/main/journey-banner.svg" width="100%"/>
+</div>
+
 <br/>
 
 ## Selected Work
