@@ -25,7 +25,7 @@ Backend engineer in Limerick, Ireland. 4+ years building high-throughput distrib
 <br/>
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/adityavardhan1717/adityavardhan1717/main/journey-banner.svg" width="100%"/>
+<img src="https://raw.githubusercontent.com/adityavardhan1717/adityavardhan1717/main/journey_banner_aditya.svg" width="100%"/>
 </div>
 
 <br/>
