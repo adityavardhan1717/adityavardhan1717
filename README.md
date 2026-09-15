@@ -2,48 +2,25 @@
 
 <img src="https://raw.githubusercontent.com/adityavardhan1717/adityavardhan1717/main/hero-banner.svg" width="100%"/>
 
-```
+<br/>
 
-$ whoami
-
-```
-
-**Aditya Vardhan** · Backend Engineer · Limerick, Ireland
-
-<a href="https://adityavardhan1717.github.io"><img src="https://img.shields.io/badge/portfolio-1A2036?style=flat-square&logo=vercel&logoColor=5FD3C4"/></a>
-<a href="https://linkedin.com/in/aditya-vardhan17"><img src="https://img.shields.io/badge/linkedin-1A2036?style=flat-square&logo=linkedin&logoColor=5FD3C4"/></a>
-<a href="mailto:thedeveloperaditya@gmail.com"><img src="https://img.shields.io/badge/email-1A2036?style=flat-square&logo=gmail&logoColor=5FD3C4"/></a>
+<a href="https://adityavardhan1717.github.io"><img src="https://img.shields.io/badge/-Portfolio-1A2036?style=for-the-badge&logo=vercel&logoColor=5FD3C4"/></a>
+<a href="https://linkedin.com/in/aditya-vardhan17"><img src="https://img.shields.io/badge/-LinkedIn-1A2036?style=for-the-badge&logo=linkedin&logoColor=5FD3C4"/></a>
+<a href="mailto:thedeveloperaditya@gmail.com"><img src="https://img.shields.io/badge/-Email-1A2036?style=for-the-badge&logo=gmail&logoColor=5FD3C4"/></a>
 
 </div>
 
 <br/>
 
-```
+## About
 
-$ cat about.txt
+Backend engineer in Limerick, Ireland. 4+ years building high-throughput distributed systems in fintech. Currently completing an MSc in Data Analytics, researching how to catch failing microservices before they cause outages.
 
-```
-
-Backend engineer, 4+ years building high-throughput distributed systems in fintech.
-Currently completing an MSc in Data Analytics, researching how to catch failing
-microservices before they cause outages.
-
-```
-
-$ cat notes.txt
-
-```
-
-- Outside of engineering, trains seriously in the gym. Same discipline that goes
-  into a structured lift program shows up in how systems get shipped and debugged:
-  consistent, methodical, no shortcuts.
-- Made the jump from industry back into a Master's to formalize the statistical
-  intuition built up watching production systems fail. "Why did this break" turned
-  out to be a good research question.
-- Originally from India, based in Ireland now. Happy to talk shop over coffee if
-  you're in Limerick.
-- Likes backend work specifically because it's invisible when it's right and loud
-  when it's wrong. Would rather be the one who kept it invisible.
+**A bit more:**
+- 🏋️ Outside of engineering, I train seriously in the gym. The same discipline that goes into a structured lift program is what I bring to shipping and debugging systems: consistent, methodical, no shortcuts.
+- 🎓 Made the jump from industry back into a Master's to formalize the statistical intuition I'd built up watching production systems fail. Turns out "why did this break" is a great research question.
+- 🌍 Originally from India, now based in Ireland, always happy to talk shop over coffee if you're in Limerick.
+- 🔧 I like backend work specifically because it's invisible when it's right and very loud when it's wrong. I'd rather be the person who made sure it stayed invisible.
 
 <br/>
 
@@ -53,45 +30,65 @@ $ cat notes.txt
 
 <br/>
 
-```
+## Selected Work
 
-$ ls projects/
+<table>
+<tr>
+<td width="50%" valign="top">
 
-```
+**Kafka Event Backbone**
+Architected from scratch, replacing point-to-point service calls.
+`10M+ events/day` · `-40% latency`
 
-| | |
-|---|---|
-| **kafka-event-backbone/** | Built from scratch, replacing point-to-point service calls.<br/>`10M+ events/day` `-40% latency` |
-| **monolith-to-microservices/** | Led migration of core loan infrastructure.<br/>`-40% release time` `team-wide impact` |
-| **top-up-loan-platform/** | Solo-owned, proof of concept to production.<br/>`#2 revenue-generating feature` |
-| **trace-anomaly-detection/** | MSc thesis. 6.59M traces, 4 statistical methods.<br/>`99.7% vs 23.9% missing-span signal` → [read more](https://adityavardhan1717.github.io/thesis.html) |
+</td>
+<td width="50%" valign="top">
+
+**Monolith → Microservices**
+Led the migration of core loan infrastructure.
+`-40% release time` · team-wide impact
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**Top-Up Loan Platform**
+Solo-owned, proof of concept to production.
+`#2 revenue-generating feature`
+
+</td>
+<td width="50%" valign="top">
+
+**Trace Anomaly Detection**
+MSc thesis, 6.59M traces, 4 statistical methods.
+`99.7% vs 23.9%` missing-span signal → **[read more](https://adityavardhan1717.github.io/thesis.html)**
+
+</td>
+</tr>
+</table>
 
 <br/>
 
-```
+## Stack
 
-$ cat stack.yml
+<div align="center">
 
-```
+<img src="https://img.shields.io/badge/Java-1A2036?style=for-the-badge&logo=java&logoColor=5FD3C4"/>
+<img src="https://img.shields.io/badge/Python-1A2036?style=for-the-badge&logo=python&logoColor=5FD3C4"/>
+<img src="https://img.shields.io/badge/Spring%20Boot-1A2036?style=for-the-badge&logo=spring&logoColor=5FD3C4"/>
+<img src="https://img.shields.io/badge/Kafka-1A2036?style=for-the-badge&logo=apachekafka&logoColor=5FD3C4"/>
+<br/><br/>
+<img src="https://img.shields.io/badge/MySQL-1B2444?style=for-the-badge&logo=mysql&logoColor=E8A33D"/>
+<img src="https://img.shields.io/badge/Redis-1B2444?style=for-the-badge&logo=redis&logoColor=E8A33D"/>
+<img src="https://img.shields.io/badge/AWS-1B2444?style=for-the-badge&logo=amazonaws&logoColor=E8A33D"/>
+<img src="https://img.shields.io/badge/Docker-1B2444?style=for-the-badge&logo=docker&logoColor=E8A33D"/>
 
-```yaml
-languages:    [Java, Python, SQL, C]
-backend:      [Spring Boot, Hibernate, Kafka, REST, Microservices]
-data:         [MySQL, Oracle, Redis, MongoDB, DynamoDB]
-cloud:        [AWS Lambda, SAM CLI, Docker]
-practices:    [HLD/LLD, Design Patterns, CI/CD, Sentry]
-```
+</div>
 
 <br/>
 
 <div align="center">
 
-```
-
-$ echo "full case studies →"
-
-```
-
-**[adityavardhan1717.github.io](https://adityavardhan1717.github.io)**
+📄 Full case studies & project breakdowns → **[adityavardhan1717.github.io](https://adityavardhan1717.github.io)**
 
 </div>
