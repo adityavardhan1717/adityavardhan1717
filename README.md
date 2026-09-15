@@ -4,7 +4,7 @@
 
 <br/>
 
-<a href="https://adityavardhan1717.github.io"><img src="https://img.shields.io/badge/-Portfolio-1A2036?style=for-the-badge&logo=vercel&logoColor=5FD3C4"/></a>
+<a href="https://adityavardhan1717.github.io"><img src="https://img.shields.io/badge/-Portfolio-1A2036?style=for-the-badge&logo=safari&logoColor=5FD3C4"/></a>
 <a href="https://linkedin.com/in/aditya-vardhan17"><img src="https://img.shields.io/badge/-LinkedIn-1A2036?style=for-the-badge&logo=linkedin&logoColor=5FD3C4"/></a>
 <a href="mailto:thedeveloperaditya@gmail.com"><img src="https://img.shields.io/badge/-Email-1A2036?style=for-the-badge&logo=gmail&logoColor=5FD3C4"/></a>
 
